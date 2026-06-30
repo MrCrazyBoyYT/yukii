@@ -1,0 +1,53 @@
+{
+  "name": "yukii",
+  "version": "1.0.0",
+  "description": "A modern, customizable music card generator for Discord bots.",
+  "main": "yukii/index.js",
+  "types": "yukii/index.d.ts",
+  "scripts": {
+    "test": "node eg/test"
+  },
+  "files": [
+    "yukii",
+    "res",
+    "LICENSE",
+    "README.md"
+  ],
+  "keywords": [
+    "yukii",
+    "music-card",
+    "discord",
+    "discord.js",
+    "discord-music-card",
+    "now-playing",
+    "spotify",
+    "youtube",
+    "canvas",
+    "@napi-rs/canvas",
+    "image-generator",
+    "music",
+    "audio",
+    "track"
+  ],
+  "author": "MrCrazyBoyYT",
+  "license": "GPL-3.0-or-later",
+  "dependencies": {
+    "@napi-rs/canvas": "^0.1.44",
+    "color-thief-bun": "^1.0.3"
+  },
+  "devDependencies": {
+    "@types/node": "20.5.0",
+    "typescript": "^5.1.6"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MrCrazyBoyYT/yukii.git"
+  },
+  "bugs": {
+    "url": "https://github.com/MrCrazyBoyYT/yukii/issues"
+  },
+  "homepage": "https://github.com/MrCrazyBoyYT/yukii#readme",
+  "engines": {
+    "node": ">=18"
+  }
+}
