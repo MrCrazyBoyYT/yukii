@@ -2,9 +2,11 @@
 
 > A modern, customizable music card generator for Discord bots.
 
-![npm](https://img.shields.io/npm/v/yukii?style=for-the-badge)
-![downloads](https://img.shields.io/npm/dm/yukii?style=for-the-badge)
-![license](https://img.shields.io/npm/l/yukii?style=for-the-badge)
+[![npm version](https://img.shields.io/npm/v/yukii)](https://www.npmjs.com/package/yukii)
+[![npm downloads](https://img.shields.io/npm/dm/yukii)](https://www.npmjs.com/package/yukii)
+[![License: GPL v3](https://img.shields.io/badge/License-GPLv3-blue.svg)](LICENSE)
+[![GitHub stars](https://img.shields.io/github/stars/MrCrazyBoyYT/yukii?style=social)](https://github.com/MrCrazyBoyYT/yukii)
+[![GitHub issues](https://img.shields.io/github/issues/MrCrazyBoyYT/yukii)](https://github.com/MrCrazyBoyYT/yukii/issues)
 
 ---
 
